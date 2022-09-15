@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ronald-macheka
+- 👋 Hi, I’m Ronald Macheka
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning MERN Stack, SQL
 - 💞️ I’m looking to collaborate on frontend and backend projects 
